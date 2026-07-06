@@ -14,3 +14,10 @@ Development Team
 Student Name: Cris Jalen D. Mendoza
 Course: BSIT
 Section:BSIT-BA 2c
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
